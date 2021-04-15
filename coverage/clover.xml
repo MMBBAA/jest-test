@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1618491492497" clover="3.2.0">
+  <project timestamp="1618491492497" name="All files">
+    <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2" elements="14" coveredelements="14" complexity="0" loc="6" ncloc="6" packages="1" files="2" classes="2"/>
+    <file name="fibo.ts" path="F:\JEST\testing_1\src\core\fibo.ts">
+      <metrics statements="4" coveredstatements="4" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="10" type="cond" truecount="4" falsecount="0"/>
+      <line num="4" count="3" type="stmt"/>
+    </file>
+    <file name="sum.ts" path="F:\JEST\testing_1\src\core\sum.ts">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
